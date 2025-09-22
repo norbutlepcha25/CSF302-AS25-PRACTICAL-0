@@ -1,5 +1,5 @@
-# CSF302-practical-0
-Algorithm Design and Analysis praticals
+# CSF302-PRCATICAL-0
+## Write the following program
 
 1. Write a program to store random numbers into an array of n integers and then find out the smallest and largest number stored in it. n is the user input..
 2. Implement the Binary Search algorithm
